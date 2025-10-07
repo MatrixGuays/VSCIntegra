@@ -1,0 +1,6 @@
+[
+  {
+    "nombre": "pedrito",
+    "rubro": "vendedor de tangas"
+  }
+]

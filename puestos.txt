@@ -1,0 +1,41 @@
+[
+  {
+    "estado": "ocupado",
+    "nombre": "Nahuel",
+    "rubro": "Textil",
+    "fecha": "2025-10-07"
+  },
+  {
+    "estado": "libre"
+  },
+  {
+    "estado": "libre"
+  },
+  {
+    "estado": "libre"
+  },
+  {
+    "estado": "libre"
+  },
+  {
+    "estado": "libre"
+  },
+  {
+    "estado": "libre"
+  },
+  {
+    "estado": "libre"
+  },
+  {
+    "estado": "libre"
+  },
+  {
+    "estado": "libre"
+  },
+  {
+    "estado": "libre"
+  },
+  {
+    "estado": "libre"
+  }
+]
